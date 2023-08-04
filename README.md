@@ -27,8 +27,8 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✍️ My Logs </h2> <br> 
     <div align= "center"> 
-        <a href=https://co-do.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://co-do.tistory.com/"> </a>
-        <a href=https://sy-lee9.notion.site/Lee-suyeon-a7a4a0b94e5a4caab84df03c0e7b6144?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://sy-lee9.notion.site/Lee-suyeon-a7a4a0b94e5a4caab84df03c0e7b6144?pvs=4"> </a>
+        <a href=https://co-do.tistory.com/> <img src="https://img.shields.io/badge/Study_Blog-FFC6AC?style=for-the-badge&logo=Tistory&logoColor=white&link=https://co-do.tistory.com/"> </a>
+        <a href=https://sy-lee9.notion.site/Lee-suyeon-a7a4a0b94e5a4caab84df03c0e7b6144?pvs=4> <img src="https://img.shields.io/badge/Portfolio-9AC5F4?style=for-the-badge&logo=Notion&logoColor=white&link=https://sy-lee9.notion.site/Lee-suyeon-a7a4a0b94e5a4caab84df03c0e7b6144?pvs=4"> </a>
     </div>
 </div>
 <br> 
