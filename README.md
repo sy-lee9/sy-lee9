@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hi%20there!%20I'm%20Suyeon!&animation=blink&fontColor=000000&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hi%20there!%20I'm%20Suyeon😊&animation=blink&fontColor=000000&fontSize=60" />
 </div>
 <div align= "center"> 
     <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Backend Engineer, Web Developer </h1>  
