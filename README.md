@@ -37,7 +37,7 @@
     <div align= "center"> 
         <a href="https://github.com/sy-lee9/FinalPorject_InfinityBook.git"/> <img src="https://img.shields.io/badge/📘Infinity_Book-22A699?style=for-the-badge&logoColor=white"> </a>         
         <a href="https://github.com/sy-lee9/SemiProject_CarrotFarm.git"/> <img src="https://img.shields.io/badge/🏀Carrot_Farm-FF8551?style=for-the-badge&logoColor=white"> </a>      
-        <a href="https://github.com/sy-lee9/Stylerit"/> <img src="https://img.shields.io/badge/✂️Stylerit-E34F26?style=for-the-badge&logoColor=white"> </a>
+        <a href="https://github.com/sy-lee9/Stylerit"/> <img src="https://img.shields.io/badge/✂️Stylerit-1572B6?style=for-the-badge&logoColor=white"> </a>
     </div>
 </div>
 <div style="text-align: left;"> 
